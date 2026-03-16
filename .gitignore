@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+data/raw/
+data/cpg/
+data/joern/
+data/input/
+data/tokens/
+data/model/
+
+logs/
+outputs/
+wandb/

@@ -1,0 +1,11 @@
+torch
+torch_geometric
+torch_scatter
+torch_sparse
+transformers
+safetensors
+pandas
+scikit-learn
+numpy
+ijson
+tqdm
